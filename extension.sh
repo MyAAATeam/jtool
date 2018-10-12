@@ -14,8 +14,6 @@ fi
 SCRIPTS="${SCRIPT_PATH}/scripts"
 
 . ${SCRIPT_PATH}/colors.sh
-. ${SCRIPT_PATH}/functions.sh
-
 
 function jtools {
     if [ $# -eq 0 ]

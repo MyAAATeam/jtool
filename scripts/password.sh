@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 set -e
 
 . ${JTOOLS_PATH}/colors.sh

@@ -7,7 +7,7 @@ set -e
 
 if [ -z "$VENV" ]
 then
-    VENV_NAME="venv"
+    VENV_NAME=".env"
 fi
 
 echo "`pwd`/$VENV_NAME"
